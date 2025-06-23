@@ -1,4 +1,3 @@
-
 def sum_of_series():
     n = int(input("Enter number of terms: "))
     total = 0
