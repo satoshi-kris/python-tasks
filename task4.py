@@ -1,4 +1,3 @@
-
 def get_min_value_key():
     n = int(input("Enter number of dictionary items: "))
     d = {}
