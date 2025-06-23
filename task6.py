@@ -1,4 +1,3 @@
-
 import random
 
 def multiply_random_floats():
