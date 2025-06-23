@@ -1,4 +1,3 @@
-
 def merge_strings():
     s1 = input("Enter first string (s1): ")
     s2 = input("Enter second string (s2): ")
